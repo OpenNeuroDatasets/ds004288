@@ -3,7 +3,16 @@
     "BIDSVersion": "1.7.0",
     "Authors": [
         "Jonathan C. Lau",
-        "Andrew G. Parrent"
+        "Andrew G. Parrent",
+        "John Demarco",
+        "Geetika Gupta",
+        "Jason Kai",
+        "Olivia W. Stanley",
+        "Tristan Kuehn",
+        "Patrick J. Park",
+        "Kayla Ferko",
+        "Ali R. Khan",
+        "Terry M. Peters"
     ],
     "Acknowledgements": "Data were provided by OASIS-1: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382",
     "License": "CC0",
