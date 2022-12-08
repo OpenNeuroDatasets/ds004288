@@ -1,6 +1,6 @@
 We release anatomical fiducial (AFID) annotions on a subset of the Open Access Series of Imaging Studies. 
 
-This subset consists of 30 subjects (age: 58.0 ± 17.9 years; range: 25-91; 17 female and 23 male) selected from the publicly available Open Access Series of Imaging Studies (OASIS-1) database and imaged at 3-T. The subjects were cognitively intact (Mini-Mental State Examination = 30), and the MRI scans were specifically chosen to be challenging (areas with more complex anatomy and asymmetries) 
+This subset consists of 30 subjects (age: 58.0 ± 17.9 years; range: 25-91; 17 female and 23 male) selected from the publicly available Open Access Series of Imaging Studies (OASIS-1) database and imaged at 3-T. The subjects were cognitively intact (Mini-Mental State Examination = 30), and the MRI scans were specifically chosen to be challenging (areas with more complex anatomy and asymmetries).
 
 A total of 3 AFIDs protocol applications (2,880 fiducials) were performed as part of the AFIDs-OASIS30 dataset.
 
